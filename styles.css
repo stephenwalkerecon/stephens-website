@@ -73,6 +73,8 @@ section {
     gap: 20px;
     justify-content: center;
     flex-wrap: wrap;
+    max-width: 200px;
+    margin: 0 auto;
 }
 
 .link-item {
